@@ -1,6 +1,4 @@
 # Microwave-Integrated-Retrieval-System-MIRS
-Center for Satellite Applications and Research Microwave Integrated Retrieval System (MIRS) Software
-
 Center for Satellite Applications and Research Microwave Integrated Retrieval System (MiRS) Software (Version 11.9)
 
 This repository contains the MiRS software package. There are several files available:
