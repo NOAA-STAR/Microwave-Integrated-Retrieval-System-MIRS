@@ -12,7 +12,7 @@ Once the tar file is uncompressed and unpacked, the README file under <installat
 Further questions may be addressed to quanhua.liu@noaa.gov or christopher.grassotti@noaa.gov
 
 # SHA256 Sums
-* b74598e60deb4863a8762e4f732f7d86a381e3527a642a448d4aef8dfbb25c85  mirs_v11r9_r110922331_oper_20221127.tar.gz
+* 23a5b390428367ec5cb8c64ed600930e62888fb1d8ad4e1a7619f6bac1e80bd1  mirs_v11r9_r110922331_code.tar.gz
 * e6c178f0c9602567fbcda89124f69d64f9b3b23fe75d4fdb52b4ff135450c95d  MIRS_Algorithm_Theoretical_Basis_Document.pdf
 * 90352b50be89b970bc4c5449d578125385c6488d689c17511d536c57b3677186  MIRS_Delivery_Memo.pdf
 * 2a51eaa08f1e4c4ed8b934b88013b06a640b0f1e13ce0606784640d8eebad267  MIRS_Users_Manual_DAP11.6.pdf
