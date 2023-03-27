@@ -10,6 +10,9 @@ This repository contains the MiRS software package. There are several files avai
 
 Once the tar file is uncompressed and unpacked, the README file under <installation_directory>/src/README can be referred to for more information on how to build and run MiRS.
 
+The full package (with data) from:
+https://www.star.nesdis.noaa.gov/pub/smcd/mirs/MIRS_DAP/mirs_v11r9_r110922331_oper_20221127.tar.gz
+
 Further questions may be addressed to quanhua.liu@noaa.gov or christopher.grassotti@noaa.gov
 
 # SHA256 Sums
