@@ -13,7 +13,7 @@ Once the tar file is uncompressed and unpacked, the README file under <installat
 The full package (with data) from:
 https://www.star.nesdis.noaa.gov/data/mirs_download/DAPs/mirs_v11r10_r111024267_oper_20240923.tar.gz
 
-Further questions may be addressed to quanhua.liu@noaa.gov or christopher.grassotti@noaa.gov
+Further questions may be addressed to huan.meng@noaa.gov or shu-yan.liu@noaa.gov
 
 # SHA256 Sums
 * ccf6733bf1756bf67c7b3189da0f4d122ec68874ec45bb0b6cc9a7af264c29ae  mirs_v11r9_r110922331_code.tar.gz
